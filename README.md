@@ -10,10 +10,15 @@ Your task for this assignment is to create four Java classes:
 
 Each class should contain the following methods:
 constructor methods to initalize from .txt OR .csv OR .ser
+
 get and set for all relevent data elements.
+
 write methods to write self as .txt OR .csv OR .ser
+
 insert, delete, append, sort, search, and clone methods
+
 boolean isFull, isEmpty
+
 toString
 
 The main program should demonstrates the use of EVERY METHOD OF EVERY CLASS.
