@@ -24,4 +24,4 @@ boolean isFull, isEmpty
 toString
 
 
-The main program should demonstrate EVERY METHOD OF EVERY CLASS.
+The main program should be a tester program which demonstrates EVERY METHOD OF EVERY CLASS.
