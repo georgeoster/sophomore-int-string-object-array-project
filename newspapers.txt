@@ -1,0 +1,30 @@
+New York Times
+Los Angeles Times
+Washington Post
+Chicago Tribune
+Philadelphia Inquirer 
+Denver Post
+Houston Chronicle 
+New York Post
+Detroit Free Press
+Dallas Morning News
+Boston Globe
+Atlanta Journal-Constitution
+Arizona Republic
+San Francisco Chronicle
+Cleveland Plain Dealer
+Seattle Post-Intelligencer
+St. Louis Post-Dispatch
+Baltimore Sun
+Miami Herald
+Pittsburgh Post-Gazette
+Kansas City Star
+Columbus Dispatch
+Indianapolis Star
+Orlando Sentinel
+Sacramento Bee 
+Charlotte Observer
+Hartford Courant 
+San Jose Mercury
+Boston Herald
+Harrisburg Patriot
