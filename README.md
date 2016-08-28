@@ -9,6 +9,7 @@ Your task for this assignment is to create four Java classes:
 4: A class for the underlying newspaper object.
 
 
+
 Each class should contain the following methods:
 
 constructor methods to initalize from .txt OR .csv OR .ser
@@ -22,6 +23,7 @@ insert, delete, append, sort, search, and clone methods
 boolean isFull, isEmpty
 
 toString
+
 
 
 The main program should be a tester program which demonstrates EVERY METHOD OF EVERY CLASS.
