@@ -8,7 +8,9 @@ Your task for this assignment is to create four Java classes:
 
 4: A class for the underlying newspaper object.
 
+
 Each class should contain the following methods:
+
 constructor methods to initalize from .txt OR .csv OR .ser
 
 get and set for all relevent data elements.
@@ -21,4 +23,5 @@ boolean isFull, isEmpty
 
 toString
 
-The main program should demonstrates the use of EVERY METHOD OF EVERY CLASS.
+
+The main program should demonstrate EVERY METHOD OF EVERY CLASS.
